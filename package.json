@@ -1,0 +1,25 @@
+{
+  "name": "haghgoo-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAGH-Team/haghgoo-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAGH-Team/haghgoo-website/issues"
+  },
+  "homepage": "https://github.com/HAGH-Team/haghgoo-website#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
